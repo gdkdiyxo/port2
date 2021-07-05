@@ -6,7 +6,7 @@ const projectcards = document.querySelector(".projectcards");
 const projects = [
   {
     title: "My 3D Portfolio",
-    cardImage: "assets/images/project-page/3dp.jpg",
+    cardImage: "assets/images/project-page/3dp.jpeg",
     description: "",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "http://3d.rohitsinha.in",
